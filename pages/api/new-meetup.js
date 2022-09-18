@@ -1,4 +1,3 @@
-import { MongoClient } from 'mongodb';
 import { connectToDatabase } from '../../helper/db';
 // /api/new-meetup
 // POST /api/new-meetup
