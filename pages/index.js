@@ -19,7 +19,7 @@ import MeetupList from "../components/meetups/MeetupList";
 function HomePage() {
   return (
     <Fragment>
-      <MeetupList meetups={DUMMY_MEETUPS}/>
+        <MeetupList meetups={DUMMY_MEETUPS}/>
     </Fragment>
   )
 }
